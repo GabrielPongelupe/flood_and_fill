@@ -5,12 +5,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/FernandoIbrahim">
-        <img src="https://avatars.githubusercontent.com/u/80763509?v=4" width="100px;" height="100px;" style="border-radius:50%;" alt="Gabriel Pongelupe"/><br />
-        <sub><b>Fernando Ibrahim</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GabrielPongelupe">
         <img src="https://avatars.githubusercontent.com/u/130582324?v=4" width="100px;" height="100px;" style="border-radius:50%;" alt="Gabriel Pongelupe"/><br />
         <sub><b>Gabriel Pongelupe</b></sub>
